@@ -27,7 +27,7 @@ API Endpoints Tested
 4. DELETE: https://jsonplaceholder.typicode.com/posts/1
 
 Test Included
-GET: Verifies that the API returns a status code 200 (OK).
-POST: Verifies that the response body of the POST request contains the correct data. 
-PUT: Verifies that the response body of the PUT request contains the updated data for the post.
-DELETE: Verifies that the post has been successfully deleted after a DELETE request.
+1. GET: Verifies that the API returns a status code 200 (OK).
+2. POST: Verifies that the response body of the POST request contains the correct data. 
+3. PUT: Verifies that the response body of the PUT request contains the updated data for the post.
+4. DELETE: Verifies that the post has been successfully deleted after a DELETE request.
