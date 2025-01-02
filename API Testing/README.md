@@ -21,9 +21,9 @@ How to use
    The tests are automatically executed, and results will be shown in Postman's Test Results tab.
 
 API Endpoints Tested
-GET:    https://jsonplaceholder.typicode.com/posts
-POST:   https://jsonplaceholder.typicode.com/posts
-PUT:    https://jsonplaceholder.typicode.com/posts/1
+GET: https://jsonplaceholder.typicode.com/posts
+POST: https://jsonplaceholder.typicode.com/posts
+PUT: https://jsonplaceholder.typicode.com/posts/1
 DELETE: https://jsonplaceholder.typicode.com/posts/1
 
 Test Included
