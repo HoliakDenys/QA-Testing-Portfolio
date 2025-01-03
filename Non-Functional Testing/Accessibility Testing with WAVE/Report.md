@@ -1,6 +1,6 @@
 Accessibility Testing Report
 
-Overview
+Overview.
 This report provides the results of accessibility testing performed on a website using the WAVE accessibility evaluation tool. The goal of this test was to identify potential accessibility issues that could hinder users with disabilities from interacting effectively with the site.
 
 Testing Tool
